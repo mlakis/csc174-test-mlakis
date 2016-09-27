@@ -3,3 +3,6 @@ bread
 milk
 eggs
 butter
+almond butter
+ice cream
+pasta
